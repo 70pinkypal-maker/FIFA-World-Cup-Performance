@@ -64,7 +64,7 @@ This project analyzes FIFA World Cup player performance data using Python to unc
 
 ### Team & Performance Insights
 
-![Team & Performance Insights](page1 (2).png)
+![Team & Performance Insights](page4.png)
 
 
 
@@ -92,19 +92,13 @@ FIFA-World-Cup-Player-Performance-Analytics
 │   └── fifa_world_cup_players.csv
 │
 ├── images
-│   ├── dashboard.png
-│   ├── player_age_distribution.png
-│   ├── top_goal_scorers.png
-│   ├── goals_vs_assists.png
-│   ├── player_positions.png
-│   └── overall_rating_distribution.png
-│
-├── notebooks
+│   ├──Key Performance Indicators
+    ├── dashboard.png
+│   ├── Players Performance Analysis
+│   ├── Team & Performance Insights
+
 │   └── FIFA_World_Cup_Analysis.ipynb
-│
-│
-├── requirements.txt
-└── README.md
+    └── README.md
 ```
 
 ---
