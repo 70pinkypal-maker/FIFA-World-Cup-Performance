@@ -43,41 +43,35 @@ This project analyzes FIFA World Cup player performance data using Python to unc
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](page3.png)
 
 ---
 
 # 📈 Project Visualizations
 
-### Player Age Distribution
+### Key Performance Indicators
 
-![Age Distribution](images/player_age_distribution.png)
-
----
-
-### Top Goal Scorers
-
-![Top Goal Scorers](images/top_goal_scorers.png)
+![KPI](KPI.png)
 
 ---
 
-### Goals vs Assists
+### Players Performance Analysis
 
-![Goals vs Assists](images/goals_vs_assists.png)
+![Players Performance Analysis](page2.png)
 
----
-
-### Position-wise Analysis
-
-![Position Analysis](images/player_positions.png)
 
 ---
 
-### Overall Rating Distribution
+### Team & Performance Insights
 
-![Overall Rating](images/overall_rating_distribution.png)
+![Team & Performance Insights](page1 (2).png)
+
+
 
 ---
+
+
+
 
 ## 📊 Key Insights
 
