@@ -86,18 +86,18 @@ This project analyzes FIFA World Cup player performance data using Python to unc
 ## 📁 Project Structure
 
 ```
-FIFA-World-Cup-Player-Performance-Analytics
+FIFA-World-Cup-Player-Performance
 │
-├── data
-│   └── fifa_world_cup_players.csv
-│
-├── images
-│   ├──Key Performance Indicators
-    ├── dashboard.png
-│   ├── Players Performance Analysis
-│   ├── Team & Performance Insights
-
+│   └──Dashboard fifa.pbix
 │   └── FIFA_World_Cup_Analysis.ipynb
+│   └── Fifa_world_cup_players.csv
+│   └── README.md
+    └── fifa_Cleaned.csv
+├── images
+│   ├──KPI.png
+│   ├── dashboard.png
+│   ├── Players Performance Analysis
+│   ├── Team & Performance Insight
     └── README.md
 ```
 
